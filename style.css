@@ -1,0 +1,33 @@
+*{
+    outline: solid 5px white;
+    margin: 5px;
+}
+.container {
+    display: flex;
+}
+.boxA, .boxB {
+    background-color: rgb(56, 245, 56);
+    height: 70px;
+}
+.boxA {
+    width: 73.8%;
+}
+.boxB {
+    width: 24.6%;
+}
+.boxC {
+    width: 24.6%;
+    background-color: rgb(227, 236, 89);
+    height: 400px;
+}
+.boxDEG {
+    margin: 0px;
+    width: 49.2%;
+    background-color: rgb(78, 137, 226);
+}
+.boxD, .boxE {
+    height: 100px;
+}
+.boxG {
+    height: 200px;
+}
