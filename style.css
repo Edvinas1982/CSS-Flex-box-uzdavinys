@@ -1,9 +1,12 @@
 *{
     outline: solid 5px white;
     margin: 5px;
+    font-size: 40px;
+    font-weight: 700;
 }
 .container {
     display: flex;
+    margin-bottom: -5px;
 }
 .boxA, .boxB {
     background-color: rgb(56, 245, 56);
@@ -16,18 +19,41 @@
     width: 24.6%;
 }
 .boxC {
-    width: 24.6%;
+    width: 28.6%;
     background-color: rgb(227, 236, 89);
     height: 400px;
 }
 .boxDEG {
     margin: 0px;
-    width: 49.2%;
+    width: 51.2%;
     background-color: rgb(78, 137, 226);
 }
 .boxD, .boxE {
-    height: 100px;
+    height: 75px;
+}
+.boxE {
+    margin: 10px 5px;
 }
 .boxG {
-    height: 200px;
+    height: 230px;
+}
+.boxFH {
+    margin: 0px;
+    width: 27.6%;
+    background-color: rgb(236, 118, 89);
+}
+.boxF {
+    height: 160px;
+}
+.boxH {
+    height: 230px;
+    margin-top: 10px;
+}
+.boxI {
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 100px;
+    background-color: rgb(89, 236, 192);
+    width: 98,3%;
 }
